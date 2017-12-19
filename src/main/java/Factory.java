@@ -1,0 +1,3 @@
+interface Factory {
+    Figure createFigure();
+}
